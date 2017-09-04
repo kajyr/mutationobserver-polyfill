@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kajyr/mutationobserver-polyfill.git"
+    "url": "git+https://github.com/kajyr/mutationobserver-simple-polyfill.git"
   },
   "author": "Carlo 'kajyr' <carlo.panzi@gmail.com> (http://kajyr.github.io/)",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/kajyr/mutationobserver-polyfill/issues"
+    "url": "https://github.com/kajyr/mutationobserver-simple-polyfill/issues"
   },
-  "homepage": "https://github.com/kajyr/mutationobserver-polyfill#readme"
+  "homepage": "https://github.com/kajyr/mutationobserver-simple-polyfill#readme"
 }
