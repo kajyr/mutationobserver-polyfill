@@ -1,0 +1,19 @@
+{
+  "name": "mutationobserver-simple-polyfill",
+  "version": "0.0.0",
+  "description": "A quick and dirty polyfill for the mutation observer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kajyr/mutationobserver-polyfill.git"
+  },
+  "author": "Carlo 'kajyr' <carlo.panzi@gmail.com> (http://kajyr.github.io/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kajyr/mutationobserver-polyfill/issues"
+  },
+  "homepage": "https://github.com/kajyr/mutationobserver-polyfill#readme"
+}
